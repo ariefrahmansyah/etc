@@ -1,5 +1,8 @@
-#java
-#mac
+tags:
+- #java
+- #mac
+
+---
 
 ## Java 11
 

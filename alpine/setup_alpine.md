@@ -1,5 +1,8 @@
-#gcloud 
-#python
+tags:
+- #gcloud 
+- #python
+
+---
 
 ```
 apk add bash

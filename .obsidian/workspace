@@ -4,11 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "839e8f4b47201125",
+        "id": "a6c0e5b95358e1af",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "zsh/zsh_aliases.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -65,6 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "zsh/zsh_aliases.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -82,15 +86,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "839e8f4b47201125",
+  "active": "a6c0e5b95358e1af",
   "lastOpenFiles": [
-    "README.md",
-    "alpine/setup_alpine.md",
-    "java/install_java_on_mac.md",
-    "alpine/Untitled.md",
-    "Untitled.md",
-    "java/install_java_on_mac.md.md",
+    "zsh/zsh_aliases.md",
     "zsh/Untitled.md",
-    "java/Untitled.md"
+    "java/setup_java_on_mac.md",
+    "alpine/setup_alpine.md",
+    "templates/basic_template.md",
+    "java/Untitled.md",
+    "Untitled.md",
+    "templates/Untitled.md",
+    "README.md",
+    "java/install_java_on_mac.md"
   ]
 }
