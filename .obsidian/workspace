@@ -1,0 +1,95 @@
+{
+  "main": {
+    "id": "deeab79c27768416",
+    "type": "split",
+    "children": [
+      {
+        "id": "1cc41fd5f49bb30a",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "java/install_java_on_mac.md.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f0db61941fe3216c",
+    "type": "split",
+    "children": [
+      {
+        "id": "cbd4cfdaa33fb248",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7df6cb75db1d3b59",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "affdb62e033e2b9f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "c4aa21c1d3e2e7a7",
+    "type": "split",
+    "children": [
+      {
+        "id": "8857e2b73d737ddc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "de6e80383270bbf8",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "java/install_java_on_mac.md.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "1cc41fd5f49bb30a",
+  "lastOpenFiles": [
+    "java/install_java_on_mac.md.md",
+    "zsh/Untitled.md",
+    "java/Untitled.md"
+  ]
+}
