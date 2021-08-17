@@ -1,4 +1,4 @@
-#java 
+#java
 #mac
 
 ## Java 11
