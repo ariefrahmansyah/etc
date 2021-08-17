@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "README.md",
+            "file": "alpine/setup_alpine.md",
             "mode": "source"
           }
         }
@@ -79,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "alpine/setup_alpine.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,8 +97,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "3bb51170c802e032",
+  "active": "1cc41fd5f49bb30a",
   "lastOpenFiles": [
+    "alpine/Untitled.md",
+    "java/install_java_on_mac.md",
     "README.md",
     "Untitled.md",
     "java/install_java_on_mac.md.md",
