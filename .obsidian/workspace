@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "helm/setup_helm.md",
+            "file": "README.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "helm/setup_helm.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "a6c0e5b95358e1af",
   "lastOpenFiles": [
-    "helm/Untitled.md",
+    "README.md",
     "zsh/zsh_aliases.md",
-    "zsh/Untitled.md",
+    "templates/tags.md",
     "java/setup_java_on_mac.md",
+    "helm/setup_helm.md",
     "alpine/setup_alpine.md",
+    "helm/Untitled.md",
+    "zsh/Untitled.md",
     "templates/basic_template.md",
-    "java/Untitled.md",
-    "Untitled.md",
-    "templates/Untitled.md",
-    "README.md"
+    "java/Untitled.md"
   ]
 }
