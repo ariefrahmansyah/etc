@@ -3,20 +3,20 @@
 ## Table of contents
 
 - alpine
-  - [setup_alpine.md](./alpine/setup_alpine.md)
-- command-line
-  - [history.md](./command-line/history.md)
-  - [mac-cmd.md](./command-line/mac-cmd.md)
+  - [setup_alpine](./alpine/setup_alpine.md)
+- command_line
+  - [history](./command_line/history.md)
+  - [mac_cmd](./command_line/mac_cmd.md)
 - git
-  - [etc_pre_commit.md](./git/etc_pre_commit.md)
+  - [etc_pre_commit](./git/etc_pre_commit.md)
 - helm
-  - [setup_helm.md](./helm/setup_helm.md)
+  - [setup_helm](./helm/setup_helm.md)
 - java
-  - [setup_java_on_mac.md](./java/setup_java_on_mac.md)
+  - [setup_java_on_mac](./java/setup_java_on_mac.md)
 - kubernetes
-  - [kubectl.md](./kubernetes/kubectl.md)
-  - [setup_kubernetes_on_mac.md](./kubernetes/setup_kubernetes_on_mac.md)
+  - [kubectl](./kubernetes/kubectl.md)
+  - [setup_kubernetes_on_mac](./kubernetes/setup_kubernetes_on_mac.md)
 - templates
-  - [tags.md](./templates/tags.md)
+  - [tags](./templates/tags.md)
 - zsh
-  - [zsh_aliases.md](./zsh/zsh_aliases.md)
+  - [zsh_aliases](./zsh/zsh_aliases.md)
