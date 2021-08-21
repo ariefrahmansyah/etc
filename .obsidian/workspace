@@ -4,11 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "a6c0e5b95358e1af",
+        "id": "8391f71044be5a22",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "kubernetes/kubectl.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -65,6 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "kubernetes/kubectl.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -82,17 +86,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "a6c0e5b95358e1af",
+  "active": "8391f71044be5a22",
   "lastOpenFiles": [
+    "kubernetes/kubectl.md",
+    "zsh/zsh_aliases.md",
+    "kubernetes/Untitled.md",
     "command-line/history.md",
     "README.md",
-    "zsh/zsh_aliases.md",
     "templates/tags.md",
     "java/setup_java_on_mac.md",
     "helm/setup_helm.md",
     "alpine/setup_alpine.md",
-    "helm/Untitled.md",
-    "zsh/Untitled.md",
-    "templates/basic_template.md"
+    "helm/Untitled.md"
   ]
 }
