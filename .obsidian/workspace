@@ -7,11 +7,8 @@
         "id": "a6c0e5b95358e1af",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "README.md",
-            "mode": "source"
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -68,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,6 +84,7 @@
   },
   "active": "a6c0e5b95358e1af",
   "lastOpenFiles": [
+    "command-line/history.md",
     "README.md",
     "zsh/zsh_aliases.md",
     "templates/tags.md",
@@ -96,7 +93,6 @@
     "alpine/setup_alpine.md",
     "helm/Untitled.md",
     "zsh/Untitled.md",
-    "templates/basic_template.md",
-    "java/Untitled.md"
+    "templates/basic_template.md"
   ]
 }
