@@ -1,10 +1,10 @@
 tags:
-- #gcloud 
+- #gcloud
 - #python
 
 ---
 
-```
+```sh
 apk add bash
 
 apk add curl

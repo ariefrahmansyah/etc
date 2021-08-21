@@ -4,7 +4,7 @@ tags:
 
 ---
 
-```
+```sh
 brew install tree
 
 tree -L 2 --dirsfirst

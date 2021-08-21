@@ -99,14 +99,14 @@
   "active": "a49aa434be2b67aa",
   "lastOpenFiles": [
     "README.md",
-    "helm/setup_helm.md",
-    "kubernetes/kubectl.md",
     "zsh/zsh_aliases.md",
-    "kubernetes/Untitled.md",
-    "command-line/history.md",
     "templates/tags.md",
+    "kubernetes/kubectl.md",
     "java/setup_java_on_mac.md",
+    "helm/setup_helm.md",
+    "command-line/mac-cmd.md",
+    "command-line/history.md",
     "alpine/setup_alpine.md",
-    "helm/Untitled.md"
+    "kubernetes/Untitled.md"
   ]
 }

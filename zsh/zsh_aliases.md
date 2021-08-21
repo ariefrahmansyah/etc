@@ -3,7 +3,7 @@ tags:
 
 ---
 
-```
+```sh
 # Github repositories
 alias github="cd ~/go/src/github.com"
 alias ariefrahmansyah="cd ~/go/src/github.com/ariefrahmansyah"
