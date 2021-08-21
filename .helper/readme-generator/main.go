@@ -34,7 +34,7 @@ func (c Content) isDir() bool {
 }
 
 func (c Content) getIcon() string {
-	icon := "📜"
+	icon := ""
 	if c.isDir() {
 		icon = "🗂"
 	}
