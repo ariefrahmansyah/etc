@@ -16,7 +16,5 @@
 - kubernetes
   - [kubectl](./kubernetes/kubectl.md)
   - [setup_kubernetes_on_mac](./kubernetes/setup_kubernetes_on_mac.md)
-- templates
-  - [tags](./templates/tags.md)
 - zsh
   - [zsh_aliases](./zsh/zsh_aliases.md)

@@ -40,7 +40,7 @@ func getContents(parentDir string) []Content {
 	contents := []Content{}
 
 	for _, file := range files {
-		if strings.HasPrefix(file.Name(), ".") || file.Name() == "README.md" || file.Name() == "_config.yml" {
+		if strings.HasPrefix(file.Name(), ".") || file.Name() == "README.md" || file.Name() == "_config.yml" || file.Name() == "obsidian_templates" {
 			continue
 		}
 

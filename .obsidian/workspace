@@ -7,11 +7,8 @@
         "id": "a49aa434be2b67aa",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "README.md",
-            "mode": "source"
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -79,7 +76,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,15 +94,15 @@
   },
   "active": "a49aa434be2b67aa",
   "lastOpenFiles": [
+    "obsidian_templates/Untitled.md",
+    "helm/setup_helm.md",
+    "obsidian_templates/tags.md",
     "README.md",
     "kubernetes/setup_kubernetes_on_mac.md",
     "git/Untitled.md",
     "kubernetes/Untitled.md",
     "kubernetes/kubectl.md",
     "command-line/history.md",
-    "command-line/mac-cmd.md",
-    "zsh/zsh_aliases.md",
-    "templates/tags.md",
-    "java/setup_java_on_mac.md"
+    "command-line/mac-cmd.md"
   ]
 }
