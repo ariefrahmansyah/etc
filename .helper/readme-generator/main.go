@@ -33,14 +33,6 @@ func (c Content) isDir() bool {
 	return c.Type == directoryContentType
 }
 
-func (c Content) getIcon() string {
-	icon := ""
-	if c.isDir() {
-		icon = "🗂"
-	}
-	return icon
-}
-
 func getContents(parentDir string) []Content {
 	files, err := ioutil.ReadDir(parentDir)
 	panicOnError(err)
@@ -80,7 +72,8 @@ func printContents(contents []Content, level int) string {
 		for i := 0; i < level; i++ {
 			indent += "  "
 		}
-		line := indent + "- " + content.getIcon() + " "
+
+		line := indent + "- "
 		if content.isDir() {
 			line += content.Name
 		} else {
