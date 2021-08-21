@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "README.md",
+            "file": "kubernetes/setup_kubernetes_on_mac.md",
             "mode": "source"
           }
         }
@@ -79,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "kubernetes/setup_kubernetes_on_mac.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,15 +98,15 @@
   },
   "active": "a49aa434be2b67aa",
   "lastOpenFiles": [
+    "kubernetes/setup_kubernetes_on_mac.md",
+    "git/Untitled.md",
+    "kubernetes/Untitled.md",
+    "kubernetes/kubectl.md",
+    "command-line/history.md",
+    "command-line/mac-cmd.md",
     "README.md",
     "zsh/zsh_aliases.md",
     "templates/tags.md",
-    "kubernetes/kubectl.md",
-    "java/setup_java_on_mac.md",
-    "helm/setup_helm.md",
-    "command-line/mac-cmd.md",
-    "command-line/history.md",
-    "alpine/setup_alpine.md",
-    "kubernetes/Untitled.md"
+    "java/setup_java_on_mac.md"
   ]
 }
