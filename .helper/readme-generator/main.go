@@ -55,7 +55,7 @@ func getContents(parentDir string) []Content {
 		path := parentDir + "/" + file.Name()
 
 		content := Content{
-			Name: strings.Replace(path, "./", "", 1),
+			Name: strings.Replace(file.Name(), "./", "", 1),
 			Href: path,
 			Type: fileContentType,
 		}
