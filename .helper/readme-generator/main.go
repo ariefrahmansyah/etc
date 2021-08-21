@@ -80,7 +80,7 @@ func printContents(contents []Content, level int) string {
 		for i := 0; i < level; i++ {
 			indent += "  "
 		}
-		line := indent + "- " + content.getIcon()
+		line := indent + "- " + content.getIcon() + " "
 		if content.isDir() {
 			line += content.Name
 		} else {
@@ -88,7 +88,7 @@ func printContents(contents []Content, level int) string {
 		}
 		line += "\n"
 
-		out += line + "\n"
+		out += line
 
 		if content.isDir() {
 			out += printContents(content.Contents, level+1)
