@@ -29,7 +29,7 @@ sudo ln -sfn /usr/local/opt/openjdk@8/libexec/openjdk.jdk /Library/Java/JavaVirt
 In `~/.zshrc` or `~/.bashrc`:
 
 ```sh
-export PATH="/usr/local/opt/openjdk@8/bin:$PATH"'
+export PATH=/usr/local/opt/openjdk@8/bin:$PATH
 export JAVA_HOME=/Library/Java/JavaVirtualMachines/openjdk-8.jdk/Contents/Home
 
 jdk() {

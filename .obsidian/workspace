@@ -7,8 +7,11 @@
         "id": "a49aa434be2b67aa",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "java/setup_java_on_mac.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -76,6 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "java/setup_java_on_mac.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,6 +98,7 @@
   },
   "active": "a49aa434be2b67aa",
   "lastOpenFiles": [
+    "java/setup_java_on_mac.md",
     "obsidian_templates/Untitled.md",
     "helm/setup_helm.md",
     "obsidian_templates/tags.md",
@@ -102,7 +107,6 @@
     "git/Untitled.md",
     "kubernetes/Untitled.md",
     "kubernetes/kubectl.md",
-    "command-line/history.md",
-    "command-line/mac-cmd.md"
+    "command-line/history.md"
   ]
 }
