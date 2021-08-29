@@ -16,5 +16,7 @@
 - kubernetes
   - [kubectl](./kubernetes/kubectl.md)
   - [setup_kubernetes_on_mac](./kubernetes/setup_kubernetes_on_mac.md)
+- mac
+  - [useful_cd_on_mac.md](./mac/useful_cd_on_mac.md.md)
 - zsh
   - [zsh_aliases](./zsh/zsh_aliases.md)
