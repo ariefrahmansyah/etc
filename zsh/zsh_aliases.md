@@ -1,4 +1,5 @@
 tags:
+
 - #zsh
 
 ---
@@ -15,4 +16,7 @@ alias kns="kubens"
 
 # Terraform
 alias tf="terraform"
+
+# Obsidian
+alias obs-vault=" cd ~/Library/Mobile\ Documents/iCloud\~md\~obsidian/Documents/"
 ```

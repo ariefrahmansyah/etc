@@ -1,32 +1,29 @@
 {
   "main": {
-    "id": "deeab79c27768416",
+    "id": "4c513d9473a77f5c",
     "type": "split",
     "children": [
       {
-        "id": "a49aa434be2b67aa",
+        "id": "f4837640309e1b82",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "mac/useful_cd_on_mac.md.md",
-            "mode": "source"
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "f0db61941fe3216c",
+    "id": "87ef97e09302f9cf",
     "type": "split",
     "children": [
       {
-        "id": "cbd4cfdaa33fb248",
+        "id": "f71cf48257ca7726",
         "type": "tabs",
         "children": [
           {
-            "id": "7df6cb75db1d3b59",
+            "id": "15b21ac81b4d492b",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -34,7 +31,7 @@
             }
           },
           {
-            "id": "affdb62e033e2b9f",
+            "id": "8be0866eaba9b26c",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -47,9 +44,39 @@
                 "sortOrder": "alphabetical"
               }
             }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "6b0c52ce15b47b44",
+    "type": "split",
+    "children": [
+      {
+        "id": "145f6e59552a2d03",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3b9abd79a3aec4fe",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
           },
           {
-            "id": "7c29a10d9acb5f4b",
+            "id": "a37ceba08481c760",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -63,50 +90,13 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
-  "right": {
-    "id": "c4aa21c1d3e2e7a7",
-    "type": "split",
-    "children": [
-      {
-        "id": "8857e2b73d737ddc",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "de6e80383270bbf8",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "mac/useful_cd_on_mac.md.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          }
-        ]
-      }
-    ],
-    "direction": "horizontal",
-    "width": 300
-  },
-  "active": "a49aa434be2b67aa",
+  "active": "f4837640309e1b82",
   "lastOpenFiles": [
-    "mac/Untitled.md",
-    "java/setup_java_on_mac.md",
-    "obsidian_templates/Untitled.md",
-    "helm/setup_helm.md",
-    "obsidian_templates/tags.md",
-    "README.md",
+    "kubernetes/kubernetes_recipes.md",
     "kubernetes/setup_kubernetes_on_mac.md",
-    "git/Untitled.md",
-    "kubernetes/Untitled.md",
-    "kubernetes/kubectl.md"
+    "git/etc_pre_commit.md"
   ]
 }

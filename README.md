@@ -16,6 +16,7 @@
 - kubernetes
   - [kubectl](./kubernetes/kubectl.md)
   - [setup_kubernetes_on_mac](./kubernetes/setup_kubernetes_on_mac.md)
+  - [ubuntu_pod.yaml](./kubernetes/ubuntu_pod.yaml)
 - mac
   - [useful_cd_on_mac.md](./mac/useful_cd_on_mac.md.md)
 - zsh
