@@ -7,6 +7,9 @@ spec:
     - name: ubuntu
       image: ubuntu
       imagePullPolicy: IfNotPresent
+      command:
+        - "sleep"
+        - "3600"
       resources:
         limits:
           cpu: "1"
