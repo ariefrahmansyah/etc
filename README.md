@@ -18,6 +18,6 @@
   - [setup_kubernetes_on_mac](./kubernetes/setup_kubernetes_on_mac.md)
   - [ubuntu_pod.yaml](./kubernetes/ubuntu_pod.yaml)
 - mac
-  - [useful_cd_on_mac.md](./mac/useful_cd_on_mac.md.md)
+  - [useful_cd_on_mac](./mac/useful_cd_on_mac.md)
 - zsh
   - [zsh_aliases](./zsh/zsh_aliases.md)
