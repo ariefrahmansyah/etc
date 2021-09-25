@@ -9,6 +9,8 @@
   - [mac_cmd](./command_line/mac_cmd.md)
 - git
   - [etc_pre_commit](./git/etc_pre_commit.md)
+- gitlab
+  - [gitlab_runner](./gitlab/gitlab_runner.md)
 - helm
   - [setup_helm](./helm/setup_helm.md)
 - java

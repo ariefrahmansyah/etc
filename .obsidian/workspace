@@ -7,8 +7,11 @@
         "id": "f4837640309e1b82",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "gitlab/gitlab_runner.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -65,6 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "gitlab/gitlab_runner.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,8 +99,10 @@
   },
   "active": "f4837640309e1b82",
   "lastOpenFiles": [
+    "gitlab/gitlab_runner.md",
+    "git/etc_pre_commit.md",
+    "gitlab/Untitled.md",
     "kubernetes/kubernetes_recipes.md",
-    "kubernetes/setup_kubernetes_on_mac.md",
-    "git/etc_pre_commit.md"
+    "kubernetes/setup_kubernetes_on_mac.md"
   ]
 }
